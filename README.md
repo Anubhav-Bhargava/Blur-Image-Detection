@@ -1,4 +1,4 @@
-# Blur-Image-Detection# Image Blur Detection
+# Image Blur Detection
 
 This repo contains the code for Image Blur Classifcation. Two methods have been used to solve this problem:-
 
